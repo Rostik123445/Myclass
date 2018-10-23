@@ -1,1 +1,14 @@
-div{border:solid blue 1px;}
+div{border:solid pink 2px;}
+#b1{background-color: blue;
+padding:2px;
+}
+#b2{background-color: yellow;
+padding:2px;}
+#b3{background-color: grey;
+width:20%;
+float: left;}
+#b4{background-color: white;
+width:78%;
+float: left;}
+#b5{background-color: yellow;
+clear:both;}
